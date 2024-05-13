@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Love Message</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        .message {
+            margin-top: 20px;
+        }
+        .message-text {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="message">
+        <p class="message-text">Nono❤🌹just a taking quick break and thought i should let you know that you've been on my mind a lot lately. Whether I'm busy with school work and just going about my day, thoughts of you always find a way to sneak in nje. Just the thought of Your smile, your kindness and your pretty face, you are slowly but surely becoming my favorite distraction and i wouldn't have it any other way ❤🌹❤🌹</p>
+    </div>
+</body>
+</html>
